@@ -1,4 +1,4 @@
-# Hypothesis Testing
+# Hypothesis Testing | CSIS 344
 
 ## Hypothesis
 
